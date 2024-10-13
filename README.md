@@ -3,17 +3,25 @@ Este es el proyecto realizado en el curso IA para Ciencias e Ingenierías, el cu
 
 
 ### Integrantes
-Davidson Arley Pérez Jiménez,  
-C.C. 1001738845, 
-Ingeniería de Sistemas
+- Davidson Arley Pérez Jiménez
 
-Levis Javier Aguiar Torres, 
-C.C. 1005664227,  
-Ingeniería de Sistemas
+  C.C. 1001738845
 
-Jimmy White Gómez Rámos, 
-C.C. 1011590254, 
-Ingeniería de Sistemas
+  Ingeniería de Sistemas
+
+
+- Levis Javier Aguiar Torres 
+
+  C.C. 1005664227
+
+  Ingeniería de Sistemas
+
+
+- Jimmy White Gómez Rámos
+
+  C.C. 1011590254
+
+  Ingeniería de Sistemas
 
 
 ### Video Entrega 2
