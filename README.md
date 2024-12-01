@@ -26,3 +26,7 @@ Este es el proyecto realizado en el curso IA para Ciencias e Ingenierías, el cu
 
 ### Video Entrega 2
 https://www.youtube.com/watch?v=4gA08K05BaA
+
+
+### Video Entrega FINAL
+https://youtu.be/MEnfL7XGV90
